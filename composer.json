@@ -1,0 +1,6 @@
+{
+    "require": {
+        "doctrine/doctrine-bundle": "^2.4",
+        "symfony/var-dumper": "^5.3"
+    }
+}
